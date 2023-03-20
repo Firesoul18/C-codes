@@ -1,1 +1,2 @@
-/* code */
+
+    // cout<<s<<endl;
