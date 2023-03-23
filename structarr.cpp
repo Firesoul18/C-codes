@@ -14,6 +14,6 @@ int main(){
     }
     for(int i=0; i<3; i++){
         cout<<list[i].name<<endl;
-        cout<<list[i].amount<<endl<<endl;79
+        cout<<list[i].amount<<endl<<endl;
     }
 }
